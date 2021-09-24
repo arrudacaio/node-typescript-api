@@ -1,0 +1,26 @@
+{
+  "name": "typescript-api",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrudacaio/node-typescript-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "author": "caio arruda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arrudacaio/node-typescript-api/issues"
+  },
+  "homepage": "https://github.com/arrudacaio/node-typescript-api#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
